@@ -1,0 +1,54 @@
+commit 69b4914ac963d3b36d42806e56ecce159f2032e6
+Author: Splerge <s3539519@student.rmit.edu.au>
+Date:   Tue Oct 9 21:35:06 2018 +1100
+
+    Ran shellcheck, and fixed all issues it came up with.
+
+ assignment.sh | 68 ++++++++++++++++++++++++++++++-----------------------------
+ 1 file changed, 35 insertions(+), 33 deletions(-)
+
+commit 69e49429610b884188bb1096121536cb26aeefb0
+Author: Splerge <s3539519@student.rmit.edu.au>
+Date:   Tue Oct 9 20:37:38 2018 +1100
+
+    Added the ability to quit
+    Added pagination for the trigger menu using "more"
+
+ assignment.sh | 64 ++++++++++++++++++++++++++++++++++++++++++-----------------
+ 1 file changed, 46 insertions(+), 18 deletions(-)
+
+commit 62005607835a00e5013cbd44c808b82ec4941022
+Author: Splerge <s3539519@student.rmit.edu.au>
+Date:   Sun Sep 30 00:19:31 2018 +1000
+
+    Added tasks 3 and 4, began working on 5
+
+ assignment.sh | 59 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++---
+ 1 file changed, 56 insertions(+), 3 deletions(-)
+
+commit 3224df3fa0aa135079de61dd96f61f4318b69d26
+Author: Splerge <s3539519@student.rmit.edu.au>
+Date:   Wed Sep 26 13:45:00 2018 +1000
+
+    Finished first led menu
+
+ assignment.sh | 45 ++++++++++++++++++++++++++++++++++++++++++---
+ 1 file changed, 42 insertions(+), 3 deletions(-)
+
+commit 78e04245e7198b2e1f38beff965071c8a268fcce
+Author: Splerge <s3539519@student.rmit.edu.au>
+Date:   Wed Sep 19 15:15:13 2018 +1000
+
+    Searchs /sys/class/leds/ directory
+
+ assignment.sh | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit c59bf753fb19aa5cf95806ae837a6c55b9438199
+Author: Splerge <s3539519@student.rmit.edu.au>
+Date:   Thu Sep 6 13:03:17 2018 +1000
+
+    first commit
+
+ assignment.sh | 3 +++
+ 1 file changed, 3 insertions(+)
