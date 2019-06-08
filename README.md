@@ -18,11 +18,6 @@ within the /sys/class/leds directory. To select a led, input the number of that 
  Selecting "none" will disable the event for this light.
 4) Quit  -- returns you to the first menu.
 
-NOTE TO MARKER
---------------
-
-Did not attempt tasks 6-7 due to time constraints with other subjects/assignments. Hopefully my work in this assignment is enough to get full marks on the rest of the tasks.
-
 REQUIREMENTS
 ------------
 
